@@ -1,0 +1,9 @@
+mongoDb:
+  driverName: mongodb
+  #host: 178.62.226.37 # digital ocean
+  #host: 172.31.26.184 # aws winawin mongodb private ip
+  # host: 18.188.233.74 # aws winawin mongodb public ip
+  host: localhost
+  #host: localhost
+  port: 27017
+  dbName: winawin
